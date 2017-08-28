@@ -19,9 +19,9 @@ public class Hello {
 	Demo getDemo(){
 		Demo demo = new Demo();
 		demo.setId(10);
-		demo.setName("zhangsan-20");
+		demo.setName("zhangsan-2018-12");
 		demo.setCreateTime(new Date());
-		demo.setRemark("这是备注remarkaaaaaaaaaa");
+		demo.setRemark("这是备注remark的aa");
 		return demo;
 	}
 }
